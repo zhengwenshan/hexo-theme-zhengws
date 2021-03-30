@@ -25,4 +25,6 @@ comments: true
 ### 联系我
 
 >Email: zhengws_ccie@163.com
+>WeChat: IXHY001
+![WeChat](/img/contact/WeChat.png)
 
