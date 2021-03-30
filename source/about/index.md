@@ -3,13 +3,13 @@ layout: "about"
 title: "About"
 date: 2021-03-29 10:48:33
 description: "走在成为极客的路上"
-header-img: "img/header_img/home_bg.jpg"
+header-img: "/img/header_img/home_bg.jpg"
 comments: true
 ---
 
 ### 一句话
 
->Just do it !    (翻译：我只是个搞 IT的！哭笑脸)
+> 挑战自我 (Challenge yourself)
 
 ### 关于我
 
@@ -19,7 +19,7 @@ comments: true
 
 ### 兴趣方向
 
-> 容器云（Docker、Kubernetes等）相关生态技术研究。
+> 中间件、大数据 Java相关技术研究。
 
 
 ### 联系我
