@@ -211,6 +211,6 @@ sitemap:
 
 deploy:
   type: git
-  repository: https://github.com/zhengwenshan/zhengwenshan.github.io
+  repository: https://github.com/xxxxxxx/xxxxxxx.github.io
   branch: master
   message: Update CNAME
